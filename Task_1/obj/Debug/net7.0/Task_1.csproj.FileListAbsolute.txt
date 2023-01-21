@@ -1,0 +1,15 @@
+E:\GeekBrains\Lang с#\Sem_15.01.23\Task_1\bin\Debug\net7.0\Task_1.exe
+E:\GeekBrains\Lang с#\Sem_15.01.23\Task_1\bin\Debug\net7.0\Task_1.deps.json
+E:\GeekBrains\Lang с#\Sem_15.01.23\Task_1\bin\Debug\net7.0\Task_1.runtimeconfig.json
+E:\GeekBrains\Lang с#\Sem_15.01.23\Task_1\bin\Debug\net7.0\Task_1.dll
+E:\GeekBrains\Lang с#\Sem_15.01.23\Task_1\bin\Debug\net7.0\Task_1.pdb
+E:\GeekBrains\Lang с#\Sem_15.01.23\Task_1\obj\Debug\net7.0\Task_1.csproj.AssemblyReference.cache
+E:\GeekBrains\Lang с#\Sem_15.01.23\Task_1\obj\Debug\net7.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\Lang с#\Sem_15.01.23\Task_1\obj\Debug\net7.0\Task_1.AssemblyInfoInputs.cache
+E:\GeekBrains\Lang с#\Sem_15.01.23\Task_1\obj\Debug\net7.0\Task_1.AssemblyInfo.cs
+E:\GeekBrains\Lang с#\Sem_15.01.23\Task_1\obj\Debug\net7.0\Task_1.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Lang с#\Sem_15.01.23\Task_1\obj\Debug\net7.0\Task_1.dll
+E:\GeekBrains\Lang с#\Sem_15.01.23\Task_1\obj\Debug\net7.0\refint\Task_1.dll
+E:\GeekBrains\Lang с#\Sem_15.01.23\Task_1\obj\Debug\net7.0\Task_1.pdb
+E:\GeekBrains\Lang с#\Sem_15.01.23\Task_1\obj\Debug\net7.0\Task_1.genruntimeconfig.cache
+E:\GeekBrains\Lang с#\Sem_15.01.23\Task_1\obj\Debug\net7.0\ref\Task_1.dll
